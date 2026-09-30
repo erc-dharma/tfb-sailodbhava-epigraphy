@@ -62,41 +62,40 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:00000 maturity:00000"><!-- update the values of @xml:lang and @rendition according to the language and source script of your text-->
             <!--edition goes here-->
 <p><pb n="1v"/><!--First plate, reverse.-->
-<lb n="1"/> [dextrorotatory spiral] svasti – caturudadhisalilavīcīmekhalānilīnāyāṁ sadvīpā-
-<lb n="2"/>garapattanavatyā vasundharāyāṁ gauptāvde varṣaśatattraye varttamāne
-<lb n="3"/>mahā<space type="binding-hole"/>rājādhirājāśśrīśaśāṅkarājye śāsati gagaṇatala-
-<lb n="4"/>vini<space type="binding-hole"/>sṛtabhagīrathāvatāritāyā himavadgirer apari-
-<lb n="5"/>patanānekaśilāsaṁhātavibhinnavahiḫpātālāttarjjalaughai
-<lb n="6"/>surasarita Iva vividhataruvarakusumasañchannobhayataṭā- 
-<!--	1–2. sadvīpāgarapattanavatyā: Hultzsch emends sadvīpagiripattanavatyāṁ.
+<lb n="1"/><g type="symbol" ref="sym:spiralR"/><!--[dextrorotatory spiral]--> svasti <g type="symbol" ref="sym:stroke"/> catur-udadhi-salila-vīcī-mekhalā-nilīnāyāṁ sa-dvīpā<lb 
+n="2" break="no"/>gara-pattana-vatyā<supplied reason="omitted">ṁ</supplied> vasundharāyāṁ gauptāvde varṣa-śata-ttraye varttamāne
+<lb n="3"/>mahā<space type="binding-hole"/>rājādhirāj<choice><sic>āśś</sic><corr>a-ś</corr></choice>rī-śaśāṅka-rājye śāsati gagaṇa-tala<lb 
+n="4" break="no"/>-vini<supplied reason="omitted">ḥ</supplied><space type="binding-hole"/>sr̥ta-bhagīrathāvatāritāyā himavad-girer <choice><sic>a</sic><corr>u</corr></choice>pari<lb 
+n="5" break="no"/>patanā<supplied reason="omitted">d a</supplied>neka-śilā-saṁ<choice><sic>h</sic><corr>gh</corr></choice>āta-vibhinna-vahiḫ-pātālāt tarjjalau-gh<choice><sic>ai</sic><corr>āyāḥ</corr></choice>
+<lb n="6"/>sura-sarita Iva vividha-taru-vara-kusuma-sañchannobhaya-taṭā<!--	
+	1–2. sadvīpāgarapattanavatyā: Hultzsch emends sadvīpagiripattanavatyāṁ. What about sadvīpāgāra-?
  	3. mahārājādhirājāśśrīśaśāṅkarājye: Hultzsch emends mahārājādhirājaśrīśaśāṅkarāje.
-	4. vinisṛta-: Hultzsch emends viniḥsṛta-.
+	4. vinisr̥ta-: Hultzsch emends viniḥsr̥ta-.
 	4–5. aparipatanānekaśilāsaṁhātavibhinna-: Hultzsch reads upari- and emends -patanād anekaśilāsaṁghāta-.
 	5. -pātālāttarjjalaughai: Hultzsch hesitantly emends -pātālāntarjjalaughāyāḥ.
 -->
-
-<pb n="2r"/><!--Second plate, obverse.-->
-<lb n="7"/>ntavinipatitajalāśayāyāḥ ś(ā)limāsaritaḥ kulā(pa)kaṇṭhā-
+<pb n="2r" break="no"/><!--Second plate, obverse.-->
+<lb n="7" break="no"/>ntavinipatitajalāśayāyāḥ ś(ā)limāsaritaḥ kulā(pa)kaṇṭhā-
 <lb n="8"/>d vejayakoṅgādāt mahārājamahāsāmantaśrīmādhavarājasya priyatanayo
 <lb n="9"/>mahārājā yaśobhītas tasyāpi priyasūnuḥ svaguṇa(ma)rīcinikara-
 <lb n="10"/>pravo<space type="binding-hole"/>dhitaśilodbhavakulakamalo vikośanīlotpala-
 <lb n="11"/>prati<space type="binding-hole"/>sparddhinīkhaḍgadhārāniśitaniśśeṣapratihataripu-
-<lb n="12"/>valo dīnānāthakṛpaṇavanīpakopabhujyamānavibhavaḥ svabhu-
-<lb n="13"/>japarighayugalopārjjitanṛpaśrī kamalavimalaruthara-
+<lb n="12"/>valo dīnānāthakr̥paṇavanīpakopabhujyamānavibhavaḥ svabhu-
+<lb n="13"/>japarighayugalopārjjitanr̥paśrī kamalavimalaruthara-
 <!--	
 	7–8. kulā(pa)kaṇṭhād: Hultzsch emends kulopakaṇṭhād.
 	8. vejayakoṅgādāt: Hultzsch reads -koṅgedāt and emends vijayakoṅgedād. The desired reading, however, is vijayakoṅgodād.
 	11. pratisparddhinīkhaḍgadhārāniśitaniśśeṣapratihararipu-: Hultzsch notes that niśita ought to stand before for khaḍgadhārā, and pratihata before niśśeṣa.
-	13. nṛpaśrī: Hultzsch emends -nṛpaśrīḥ.
+	13. nr̥paśrī: Hultzsch emends -nr̥paśrīḥ.
 	13. -ruthara-: Hultzsch emends -rucira-.
 -->
 
 <pb n="2v"/><!--Second plate, reverse.-->
-<lb n="14"/>tanur jaganmalamaṇḍanaśrutaśauryadhairyaguṇānvito mahāvṛṣabhaparyaṅka-
+<lb n="14"/>tanur jaganmalamaṇḍanaśrutaśauryadhairyaguṇānvito mahāvr̥ṣabhaparyaṅka-
 <lb n="15"/>kakudhopadhānavinyastavāhor vvālacandrodyotitajaṭākalāpaikade-
-<lb n="16"/>śasya <space type="binding-hole"/> bhagavatas sthityutpattipralayasṛṣṭisaṅhārakāraṇasya
-<lb n="17"/>nṛbhuva<space type="binding-hole"/>naguroḫ pādabhaktaḥ paramavrahmaṇyo mahārājamāhāsā-
-<lb n="18"/>mantaśrīmādhavarājaḥ kuśalī kṛṣṇagiriviṣayasaṁvaddhacchavala-
+<lb n="16"/>śasya <space type="binding-hole"/> bhagavatas sthityutpattipralayasr̥ṣṭisaṅhārakāraṇasya
+<lb n="17"/>nr̥bhuva<space type="binding-hole"/>naguroḫ pādabhaktaḥ paramavrahmaṇyo mahārājamāhāsā-
+<lb n="18"/>mantaśrīmādhavarājaḥ kuśalī kr̥ṣṇagiriviṣayasaṁvaddhacchavala-
 <lb n="19"/>kkhayagrāme varttamānabhaviṣyakkumārāmātyoparikatadāyuktakān anyāś ca
 <lb n="20"/>yathārha pūjayati mānayati ca viditam astu bhavatām ayaṁ grāmo
 <!--	
@@ -104,17 +103,17 @@
 	14. -śaurya-, -dhairya and -paryaṅka-: it looks as though the akṣaras rya are written here with y below ra, rather than with repha atop ya.
 	15. -kakudhopa-: Hultzsch emends -kakudopa-.
 	15. -candrodyotita-: Hultzsch emends -candroddyotita-.
-	17. nṛbhuvana-: Hultzsch emends tribhuvana-.	
+	17. nr̥bhuvana-: Hultzsch emends tribhuvana-.	
 	19. -bhaviṣyakkumā-: Hultzsch emends -bhaviṣyatkumā-.
 	19. anyāś:  Hultzsch emends anyāṁś.
 	20. yathārha: Hultzsch emends yathārhaṁ.
 -->
 
 <pb n="3r"/><!--Third plate, obverse.-->
-<lb n="21"/>smābhir arddheṇa mātāpittror ātmanaś ca puṇyābhivṛddhaye saliladhārāpura-
+<lb n="21"/>smābhir arddheṇa mātāpittror ātmanaś ca puṇyābhivr̥ddhaye saliladhārāpura-
 <lb n="22"/>ssareṇācandrārkkasamakālīnākṣayanīye bharadvājasagottrāyāṅgi-
 <lb n="23"/>rasavārhaspatyapravāraya charampasvāmine sūryoparāge pratipādito ||
-<lb n="24"/>Uktañ ca <space type="binding-hole"/> smṛtiśāstre , vahubhir vvasudhā dattā rājabhis sagarādibhiḥ
+<lb n="24"/>Uktañ ca <space type="binding-hole"/> smr̥tiśāstre , vahubhir vvasudhā dattā rājabhis sagarādibhiḥ
 <lb n="25"/>yasya yasya yadā bhūmi tasya tasya tadā phalaṁ || ṣaṣṭiṁ varṣasahasrā-
 <lb n="26"/>ṇi svargge modati bhūmidaḥ Ākṣeptā cānumantā ca tāny eva narake
 <lb n="27"/>vase || svadattā paradattām vā , yo hareta vasundharā sa viṣṭhāyāṁ
@@ -126,7 +125,7 @@
 -->
 
 <pb n="3v"/><!--Third plate, reverse.-->
-<lb n="28"/>[kṛmi]r bhūtvā pitṛbhis saha pacyate || mā bhutaphalaśaṅkā va[ḥ] paradatte-
+<lb n="28"/>[kr̥mi]r bhūtvā pitr̥bhis saha pacyate || mā bhutaphalaśaṅkā va[ḥ] paradatte-
 <lb n="29"/>[ti] pārthiva || svadānā phalam ānantya {||} parada[ttānupālane] || …
 <lb n="30"/>…
 <lb n="31"/>[pra]ya<space type="binding-hole"/>cchati ||
@@ -140,13 +139,13 @@
          </div>
          <div type="apparatus">
            <!--populate the skeleton apparatus as applicable, iterating <app> elements for each entry-->
-               <listApp>
+               <!--<listApp>
                   <app loc="0">
                      <lem>...</lem>
                      <rdg source="bib:Hultzsch1900-1901_02">...</rdg>
                      <note/>
                   </app>
-               </listApp>
+               </listApp>-->
          </div>
          <div type="translation">
  	         <!--translation goes here -->
