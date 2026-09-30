@@ -75,7 +75,7 @@
 	5. -pātālāttarjjalaughai: Hultzsch hesitantly emends -pātālāntarjjalaughāyāḥ.
 -->
 
-Second plate, obverse.
+<pb n="2r"/><!--Second plate, obverse.-->
 <lb n="7"/>ntavinipatitajalāśayāyāḥ ś(ā)limāsaritaḥ kulā(pa)kaṇṭhā-
 <lb n="8"/>d vejayakoṅgādāt mahārājamahāsāmantaśrīmādhavarājasya priyatanayo
 <lb n="9"/>mahārājā yaśobhītas tasyāpi priyasūnuḥ svaguṇa(ma)rīcinikara-
@@ -91,7 +91,7 @@ Second plate, obverse.
 	13. -ruthara-: Hultzsch emends -rucira-.
 -->
 
-Second plate, reverse.
+<pb n="2v"/><!--Second plate, reverse.-->
 <lb n="14"/>tanur jaganmalamaṇḍanaśrutaśauryadhairyaguṇānvito mahāvṛṣabhaparyaṅka-
 <lb n="15"/>kakudhopadhānavinyastavāhor vvālacandrodyotitajaṭākalāpaikade-
 <lb n="16"/>śasya <space type="binding-hole"/> bhagavatas sthityutpattipralayasṛṣṭisaṅhārakāraṇasya
@@ -110,7 +110,7 @@ Second plate, reverse.
 	20. yathārha: Hultzsch emends yathārhaṁ.
 -->
 
-Third plate, obverse.
+<pb n="3r"/><!--Third plate, obverse.-->
 <lb n="21"/>smābhir arddheṇa mātāpittror ātmanaś ca puṇyābhivṛddhaye saliladhārāpura-
 <lb n="22"/>ssareṇācandrārkkasamakālīnākṣayanīye bharadvājasagottrāyāṅgi-
 <lb n="23"/>rasavārhaspatyapravāraya charampasvāmine sūryoparāge pratipādito ||
@@ -125,7 +125,7 @@ Third plate, obverse.
 	27. vasundharā: Hultzsch emends vasundharām· |.
 -->
 
-Third plate, reverse.
+<pb n="3v"/><!--Third plate, reverse.-->
 <lb n="28"/>[kṛmi]r bhūtvā pitṛbhis saha pacyate || mā bhutaphalaśaṅkā va[ḥ] paradatte-
 <lb n="29"/>[ti] pārthiva || svadānā phalam ānantya {||} parada[ttānupālane] || …
 <lb n="30"/>…
@@ -142,8 +142,8 @@ Third plate, reverse.
            <!--populate the skeleton apparatus as applicable, iterating <app> elements for each entry-->
                <listApp>
                   <app loc="0">
-                     <lem/>
-                     <rdg source="bib:Hultzsch1900-1901_02"/>
+                     <lem>...</lem>
+                     <rdg source="bib:Hultzsch1900-1901_02">...</rdg>
                      <note/>
                   </app>
                </listApp>
